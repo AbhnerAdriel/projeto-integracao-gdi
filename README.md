@@ -149,16 +149,3 @@ Elas respondem perguntas como:
 2. Quais aeroportos tiveram maior e menor média de satisfação geral?
 3. Quais indicadores aparecem como pontos mais críticos?
 4. Existe diferença entre voos domésticos e internacionais?
-
-## Sugestão de mensagens de commit
-
-Evite commits genéricos como `update`, `teste` ou `ajustes`. Sugestões:
-
-```text
-Criação da estrutura inicial do repositório
-Implementação do pipeline ETL para bases de 2024 a 2026
-Criação do modelo estrela no SQLite
-Implementação do pipeline ELT com transformações em SQL
-Geração das consultas analíticas e gráficos do relatório
-Documentação do processo de integração e modelagem dimensional
-```
