@@ -1,0 +1,21 @@
+aeroporto_key,codigo_icao,nome_aeroporto,cidade,uf,regiao
+1,SBBE,Belém / Val de Cans - Júlio Cezar Ribeiro,Belém,PA,Norte
+2,SBBR,Brasília / Pres. Juscelino Kubitschek,Brasília,DF,Centro-Oeste
+3,SBCF,Confins / Tancredo Neves,Confins,MG,Sudeste
+4,SBCT,Curitiba / Afonso Pena,São José dos Pinhais,PR,Sul
+5,SBCY,Cuiabá / Marechal Rondon,Várzea Grande,MT,Centro-Oeste
+6,SBEG,Manaus / Eduardo Gomes,Manaus,AM,Norte
+7,SBFL,Florianópolis / Hercílio Luz,Florianópolis,SC,Sul
+8,SBFZ,Fortaleza / Pinto Martins,Fortaleza,CE,Nordeste
+9,SBGL,Rio de Janeiro / Antônio Carlos Jobim - Galeão,Rio de Janeiro,RJ,Sudeste
+10,SBGO,Goiânia / Santa Genoveva,Goiânia,GO,Centro-Oeste
+11,SBGR,Guarulhos / Governador André Franco Montoro,Guarulhos,SP,Sudeste
+12,SBKP,Campinas / Viracopos,Campinas,SP,Sudeste
+13,SBMO,Maceió / Zumbi dos Palmares,Rio Largo,AL,Nordeste
+14,SBPA,Porto Alegre / Salgado Filho,Porto Alegre,RS,Sul
+15,SBRF,Recife / Gilberto Freyre - Guararapes,Recife,PE,Nordeste
+16,SBRJ,Rio de Janeiro / Santos Dumont,Rio de Janeiro,RJ,Sudeste
+17,SBSG,Natal / Governador Aluízio Alves,São Gonçalo do Amarante,RN,Nordeste
+18,SBSP,São Paulo / Congonhas,São Paulo,SP,Sudeste
+19,SBSV,Salvador / Deputado Luís Eduardo Magalhães,Salvador,BA,Nordeste
+20,SBVT,Vitória / Eurico de Aguiar Salles,Vitória,ES,Sudeste

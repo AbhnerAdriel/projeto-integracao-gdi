@@ -1,0 +1,99 @@
+codigo_planilha,campo_original,coluna_normalizada
+IDP,CHAVE,chave
+L8,PROCESSO,processo
+L1,AEROPORTO,aeroporto
+L2,DATA,data
+,MÊS,mes
+L3,INÍCIO COLETA,inicio_coleta
+L4,FIM COLETA,fim_coleta
+L5,TERMINAL,terminal
+L6,PORTÃO,portao
+L7,TIPO DE VOO,tipo_de_voo
+L9,CIA AÉREA,cia_aerea
+L11,VOO,voo
+L10,CONEXÃO,conexao
+L12,AQUISIÇÃO DA PASSAGEM,aquisicao_da_passagem
+L13,MEIO DE AQUISIÇÃO DA PASSAGEM,meio_de_aquisicao_da_passagem
+L14,MEIO DE  TRANSPORTE PARA O AEROPORTO,meio_de_transporte_para_o_aeroporto
+D1,POSSUI DEFICIÊNCIA,possui_deficiencia
+D2,UTILIZA RECURSO ASSISTIVO,utiliza_recurso_assistivo
+D3,SOLICITOU ASSISTÊNCIA ESPECIAL,solicitou_assistencia_especial
+D4,FORMA DE DESEMBARQUE UTILIZADA,forma_de_desembarque_utilizada
+B1,AVALIAÇÃO DO MÉTODO DE DESEMBARQUE,avaliacao_do_metodo_de_desembarque
+A1,UTILIZOU O ESTACIONAMENTO?,utilizou_o_estacionamento
+A2,FACILIDADE DE DESEMBARQUE NO MEIO-FIO,facilidade_de_desembarque_no_meio_fio
+A3,OPÇÕES DE TRANSPORTE ATÉ O AEROPORTO,opcoes_de_transporte_ate_o_aeroporto
+C1,FORMA DE CHECK-IN,forma_de_check_in
+C2,PROCESSO DE CHECK IN,processo_de_check_in
+C2.a,TEMPO DE ESPERA NA FILA,tempo_de_espera_na_fila
+C2.b,ORGANIZAÇÃO DAS FILAS,organizacao_das_filas
+C2.c,QUANTIDADE DE TOTENS AA,quantidade_de_totens_aa
+C2.d,QUANTIDADE DE BALCÕES,quantidade_de_balcoes
+C2.e,CORDIALIDADE DOS FUNCIONÁRIOS,cordialidade_dos_funcionarios
+C2.f,TEMPO DE ATENDIMENTO,tempo_de_atendimento
+C3,PROCESSO DE AQUISIÇÃO DA PASSAGEM,processo_de_aquisicao_da_passagem
+C4,ATENDIMENTO DA CIA. AÉREA,atendimento_da_cia_aerea
+S1,PROCESSO DE INSPEÇÃO DE SEGURANÇA,processo_de_inspecao_de_seguranca
+S1.a,TEMPO DE ESPERA EM FILA,tempo_de_espera_em_fila
+S1.b,ORGANIZAÇÃO DAS FILAS2,organizacao_das_filas2
+S1.c,ATENDIMENTO DOS FUNCIONÁRIOS,atendimento_dos_funcionarios
+O1,CONTROLE MIGRATÓRIO,controle_migratorio
+O1.a,TEMPO DE ESPERA EM FILA3,tempo_de_espera_em_fila3
+O1.b,ORGANIZAÇÃO DAS FILAS4,organizacao_das_filas4
+O1.c,ATENDIMENTO DOS FUNCIONÁRIOS5,atendimento_dos_funcionarios5
+O1.d,QUANTIDADE DE GUICHÊS,quantidade_de_guiches
+O2,CONTROLE ADUANEIRO,controle_aduaneiro
+O2.a,TEMPO DE ESPERA EM FILA2,tempo_de_espera_em_fila2
+O2.b,ORGANIZAÇÃO DAS FILAS3,organizacao_das_filas3
+O2.c,ATENDIMENTO DOS FUNCIONÁRIOS4,atendimento_dos_funcionarios4
+M2,ESTABELECIMENTOS DE ALIMENTAÇÃO,estabelecimentos_de_alimentacao
+M2.a,QUANTIDADE DE ESTABELECIMENTOS DE ALIMENTAÇÃO,quantidade_de_estabelecimentos_de_alimentacao
+M2.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS DE ALIMENTAÇÃO,qualidade_e_variedade_de_opcoes_de_estabelecimentos_de_alimentacao
+M2.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS DE ALIMENTAÇÃO,relacao_preco_x_qualidade_dos_estabelecimentos_de_alimentacao
+M4,ESTABELECIMENTOS COMERCIAIS,estabelecimentos_comerciais
+M4.a,QUANTIDADE DE ESTABELECIMENTOS COMERCIAIS,quantidade_de_estabelecimentos_comerciais
+M4.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS COMERCIAIS,qualidade_e_variedade_de_opcoes_de_estabelecimentos_comerciais
+M4.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS COMERCIAIS,relacao_preco_x_qualidade_dos_estabelecimentos_comerciais
+M5,ESTACIONAMENTO,estacionamento
+M5.a,QUALIDADE DAS INSTALAÇÕES DE ESTACIONAMENTO,qualidade_das_instalacoes_de_estacionamento
+M5.b,FACILIDADE PARA ENCONTRAR VAGAS,facilidade_para_encontrar_vagas
+M5.c,FACILIDADE DE ACESSO AO TERMINAL,facilidade_de_acesso_ao_terminal
+M5.d,RELAÇÃO CUSTO X BENEFÍCIO,relacao_custo_x_beneficio
+R1,LOCALIZAÇÃO E DESLOCAMENTO,localizacao_e_deslocamento
+R1.a,SINALIZAÇÃO,sinalizacao
+R1.c,DISPONIBILIDADE DE PAINÉIS DE INFORMAÇÕES DE VOO,disponibilidade_de_paineis_de_informacoes_de_voo
+R1.b,ACESSIBILIDADE DO TERMINAL,acessibilidade_do_terminal
+R2,CONFORTO DA SALA DE EMBARQUE,conforto_da_sala_de_embarque
+R2.a,CONFORTO TÉRMICO,conforto_termico
+R2.b,CONFORTO ACÚSTICO,conforto_acustico
+R2.c,DISPONIBILIDADE DE ASSENTOS,disponibilidade_de_assentos
+R3,DISPONIBILIDADE DE ASSENTOS RESERVADOS,disponibilidade_de_assentos_reservados
+R4,DISPONIBILIDADE DE TOMADAS,disponibilidade_de_tomadas
+R6,INTERNET DISPONIBILIZADA PELO AEROPORTO,internet_disponibilizada_pelo_aeroporto
+R6.a,VELOCIDADE DE CONEXÃO,velocidade_de_conexao
+R6.b,FACILIDADE DE ACESSO À REDE,facilidade_de_acesso_a_rede
+R8,SANITÁRIOS,sanitarios
+R8.a,QUANTIDADE DE BANHEIROS,quantidade_de_banheiros
+R8.b,LIMPEZA DOS BANHEIROS,limpeza_dos_banheiros
+R8.c,MANUTENÇÃO GERAL DOS SANITÁRIOS,manutencao_geral_dos_sanitarios
+R9,LIMPEZA GERAL DO AEROPORTO,limpeza_geral_do_aeroporto
+B3,PROCESSO DE RESTITUIÇÃO DE BAGAGENS,processo_de_restituicao_de_bagagens
+B3.a,FACILIDADE DE IDENTIFICAÇÃO DA ESTEIRA DE RESTITUIÇÃO,facilidade_de_identificacao_da_esteira_de_restituicao
+B3.b,TEMPO DE RESTITUIÇÃO,tempo_de_restituicao
+B3.c,INTEGRIDADE DA BAGAGEM,integridade_da_bagagem
+B4,ATENDIMENTO DA CIA. AÉREA2,atendimento_da_cia_aerea2
+G1,SATISFAÇÃO GERAL,satisfacao_geral
+G2,MOTIVO,motivo
+P1,NACIONALIDADE,nacionalidade
+P2,GÊNERO,genero
+P3,IDADE,idade
+P4,ESCOLARIDADE,escolaridade
+P5,RENDA FAMILIAR,renda_familiar
+P6,VIAJANDO SOZINHO,viajando_sozinho
+P7,NÚMERO DE ACOMPANHANTES,numero_de_acompanhantes
+P8,MOTIVO DA VIAGEM,motivo_da_viagem
+P9,QUANTIDADE DE VIAGENS NOS ÚLTIMOS 12 MESES,quantidade_de_viagens_nos_ultimos_12_meses
+P10(E)/P11(D),JÁ EMBARCOU/DESEMBARCOU ANTES NO AEROPORTO,ja_embarcou_desembarcou_antes_no_aeroporto
+P13,ANTECEDÊNCIA,antecedencia
+P14,TEMPO DE ESPERA,tempo_de_espera
+P12,COMENTÁRIOS ADICIONAIS,comentarios_adicionais

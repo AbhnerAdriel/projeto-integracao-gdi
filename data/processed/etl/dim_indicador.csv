@@ -1,0 +1,63 @@
+indicador_key,codigo_indicador,campo_original,categoria,tipo_indicador,somente_pcd,coluna_normalizada
+1,A2,FACILIDADE DE DESEMBARQUE NO MEIO-FIO,Acesso,macro,não,facilidade_de_desembarque_no_meio_fio
+2,A3,OPÇÕES DE TRANSPORTE ATÉ O AEROPORTO,Acesso,macro,não,opcoes_de_transporte_ate_o_aeroporto
+3,B1,AVALIAÇÃO DO MÉTODO DE DESEMBARQUE,Desembarque,macro,sim,avaliacao_do_metodo_de_desembarque
+4,B3,PROCESSO DE RESTITUIÇÃO DE BAGAGENS,Bagagem,macro,não,processo_de_restituicao_de_bagagens
+5,B3.a,FACILIDADE DE IDENTIFICAÇÃO DA ESTEIRA DE RESTITUIÇÃO,Bagagem,subindicador,não,facilidade_de_identificacao_da_esteira_de_restituicao
+6,B3.b,TEMPO DE RESTITUIÇÃO,Bagagem,subindicador,não,tempo_de_restituicao
+7,B3.c,INTEGRIDADE DA BAGAGEM,Bagagem,subindicador,não,integridade_da_bagagem
+8,B4,ATENDIMENTO DA CIA. AÉREA2,Companhia aérea,macro,não,atendimento_da_cia_aerea2
+9,C2,PROCESSO DE CHECK IN,Check-in,macro,não,processo_de_check_in
+10,C2.a,TEMPO DE ESPERA NA FILA,Check-in,subindicador,não,tempo_de_espera_na_fila
+11,C2.b,ORGANIZAÇÃO DAS FILAS,Check-in,subindicador,não,organizacao_das_filas
+12,C2.c,QUANTIDADE DE TOTENS AA,Check-in,subindicador,não,quantidade_de_totens_aa
+13,C2.d,QUANTIDADE DE BALCÕES,Check-in,subindicador,não,quantidade_de_balcoes
+14,C2.e,CORDIALIDADE DOS FUNCIONÁRIOS,Check-in,subindicador,não,cordialidade_dos_funcionarios
+15,C2.f,TEMPO DE ATENDIMENTO,Check-in,subindicador,não,tempo_de_atendimento
+16,C3,PROCESSO DE AQUISIÇÃO DA PASSAGEM,Compra da passagem,macro,não,processo_de_aquisicao_da_passagem
+17,C4,ATENDIMENTO DA CIA. AÉREA,Companhia aérea,macro,não,atendimento_da_cia_aerea
+18,G1,SATISFAÇÃO GERAL,Satisfação geral,geral,não,satisfacao_geral
+19,M2,ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,macro,não,estabelecimentos_de_alimentacao
+20,M2.a,QUANTIDADE DE ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,não,quantidade_de_estabelecimentos_de_alimentacao
+21,M2.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,não,qualidade_e_variedade_de_opcoes_de_estabelecimentos_de_alimentacao
+22,M2.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,não,relacao_preco_x_qualidade_dos_estabelecimentos_de_alimentacao
+23,M4,ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,macro,não,estabelecimentos_comerciais
+24,M4.a,QUANTIDADE DE ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,não,quantidade_de_estabelecimentos_comerciais
+25,M4.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,não,qualidade_e_variedade_de_opcoes_de_estabelecimentos_comerciais
+26,M4.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,não,relacao_preco_x_qualidade_dos_estabelecimentos_comerciais
+27,M5,ESTACIONAMENTO,Estacionamento,macro,não,estacionamento
+28,M5.a,QUALIDADE DAS INSTALAÇÕES DE ESTACIONAMENTO,Estacionamento,subindicador,não,qualidade_das_instalacoes_de_estacionamento
+29,M5.b,FACILIDADE PARA ENCONTRAR VAGAS,Estacionamento,subindicador,não,facilidade_para_encontrar_vagas
+30,M5.c,FACILIDADE DE ACESSO AO TERMINAL,Estacionamento,subindicador,não,facilidade_de_acesso_ao_terminal
+31,M5.d,RELAÇÃO CUSTO X BENEFÍCIO,Estacionamento,subindicador,não,relacao_custo_x_beneficio
+32,O1,CONTROLE MIGRATÓRIO,Órgãos públicos,macro,não,controle_migratorio
+33,O1.a,TEMPO DE ESPERA EM FILA3,Órgãos públicos,subindicador,não,tempo_de_espera_em_fila3
+34,O1.b,ORGANIZAÇÃO DAS FILAS4,Órgãos públicos,subindicador,não,organizacao_das_filas4
+35,O1.c,ATENDIMENTO DOS FUNCIONÁRIOS5,Órgãos públicos,subindicador,não,atendimento_dos_funcionarios5
+36,O1.d,QUANTIDADE DE GUICHÊS,Órgãos públicos,subindicador,não,quantidade_de_guiches
+37,O2,CONTROLE ADUANEIRO,Órgãos públicos,macro,não,controle_aduaneiro
+38,O2.a,TEMPO DE ESPERA EM FILA2,Órgãos públicos,subindicador,não,tempo_de_espera_em_fila2
+39,O2.b,ORGANIZAÇÃO DAS FILAS3,Órgãos públicos,subindicador,não,organizacao_das_filas3
+40,O2.c,ATENDIMENTO DOS FUNCIONÁRIOS4,Órgãos públicos,subindicador,não,atendimento_dos_funcionarios4
+41,R1,LOCALIZAÇÃO E DESLOCAMENTO,Infraestrutura,macro,não,localizacao_e_deslocamento
+42,R1.a,SINALIZAÇÃO,Infraestrutura,subindicador,não,sinalizacao
+43,R1.b,ACESSIBILIDADE DO TERMINAL,Infraestrutura,subindicador,sim,acessibilidade_do_terminal
+44,R1.c,DISPONIBILIDADE DE PAINÉIS DE INFORMAÇÕES DE VOO,Infraestrutura,subindicador,não,disponibilidade_de_paineis_de_informacoes_de_voo
+45,R2,CONFORTO DA SALA DE EMBARQUE,Infraestrutura,macro,não,conforto_da_sala_de_embarque
+46,R2.a,CONFORTO TÉRMICO,Infraestrutura,subindicador,não,conforto_termico
+47,R2.b,CONFORTO ACÚSTICO,Infraestrutura,subindicador,não,conforto_acustico
+48,R2.c,DISPONIBILIDADE DE ASSENTOS,Infraestrutura,subindicador,não,disponibilidade_de_assentos
+49,R3,DISPONIBILIDADE DE ASSENTOS RESERVADOS,Infraestrutura,macro,sim,disponibilidade_de_assentos_reservados
+50,R4,DISPONIBILIDADE DE TOMADAS,Infraestrutura,macro,não,disponibilidade_de_tomadas
+51,R6,INTERNET DISPONIBILIZADA PELO AEROPORTO,Infraestrutura,macro,não,internet_disponibilizada_pelo_aeroporto
+52,R6.a,VELOCIDADE DE CONEXÃO,Infraestrutura,subindicador,não,velocidade_de_conexao
+53,R6.b,FACILIDADE DE ACESSO À REDE,Infraestrutura,subindicador,não,facilidade_de_acesso_a_rede
+54,R8,SANITÁRIOS,Infraestrutura,macro,não,sanitarios
+55,R8.a,QUANTIDADE DE BANHEIROS,Infraestrutura,subindicador,não,quantidade_de_banheiros
+56,R8.b,LIMPEZA DOS BANHEIROS,Infraestrutura,subindicador,não,limpeza_dos_banheiros
+57,R8.c,MANUTENÇÃO GERAL DOS SANITÁRIOS,Infraestrutura,subindicador,não,manutencao_geral_dos_sanitarios
+58,R9,LIMPEZA GERAL DO AEROPORTO,Infraestrutura,macro,não,limpeza_geral_do_aeroporto
+59,S1,PROCESSO DE INSPEÇÃO DE SEGURANÇA,Inspeção de segurança,macro,não,processo_de_inspecao_de_seguranca
+60,S1.a,TEMPO DE ESPERA EM FILA,Inspeção de segurança,subindicador,não,tempo_de_espera_em_fila
+61,S1.b,ORGANIZAÇÃO DAS FILAS2,Inspeção de segurança,subindicador,não,organizacao_das_filas2
+62,S1.c,ATENDIMENTO DOS FUNCIONÁRIOS,Inspeção de segurança,subindicador,não,atendimento_dos_funcionarios

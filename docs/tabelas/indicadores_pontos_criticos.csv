@@ -1,0 +1,16 @@
+codigo_indicador,indicador,categoria,tipo_indicador,total_avaliacoes,media_nota,percentual_positivo
+M2.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,2923,2.276,11.15
+M4.c,RELAÇÃO PREÇO x QUALIDADE DOS ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,793,2.348,10.84
+R6.a,VELOCIDADE DE CONEXÃO,Infraestrutura,subindicador,1262,2.735,14.82
+C2.d,QUANTIDADE DE BALCÕES,Check-in,subindicador,739,2.88,34.1
+R8.b,LIMPEZA DOS BANHEIROS,Infraestrutura,subindicador,4238,2.935,26.71
+C2.a,TEMPO DE ESPERA NA FILA,Check-in,subindicador,837,3.002,36.56
+B3.b,TEMPO DE RESTITUIÇÃO,Bagagem,subindicador,2914,3.011,38.81
+M4.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,794,3.103,35.52
+M2.b,QUALIDADE E VARIEDADE DE OPÇÕES DE ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,2913,3.122,35.81
+M4.a,QUANTIDADE DE ESTABELECIMENTOS COMERCIAIS,Comércio e serviços,subindicador,793,3.164,38.34
+R8.c,MANUTENÇÃO GERAL DOS SANITÁRIOS,Infraestrutura,subindicador,4218,3.168,36.61
+C2.b,ORGANIZAÇÃO DAS FILAS,Check-in,subindicador,827,3.244,49.7
+M2.a,QUANTIDADE DE ESTABELECIMENTOS DE ALIMENTAÇÃO,Comércio e serviços,subindicador,2907,3.264,43.58
+B3.c,INTEGRIDADE DA BAGAGEM,Bagagem,subindicador,2824,3.269,53.36
+R1.a,SINALIZAÇÃO,Infraestrutura,subindicador,7493,3.392,46.03

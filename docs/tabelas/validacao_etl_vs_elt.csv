@@ -1,0 +1,9 @@
+tabela,linhas_etl,linhas_elt,diferenca
+dim_tempo,271,271,0
+dim_aeroporto,20,20,0
+dim_cia_aerea,39,39,0
+dim_operacao,77,77,0
+dim_perfil_passageiro,15382,15382,0
+dim_indicador,62,62,0
+fato_entrevista,77194,77194,0
+fato_avaliacao,533891,533891,0
