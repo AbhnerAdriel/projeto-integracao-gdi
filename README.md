@@ -30,7 +30,6 @@ O projeto integra as três bases anuais, realiza limpeza e padronização dos da
 13. [Como executar os testes](#como-executar-os-testes)
 14. [Relatórios DOCX e PDF](#relatórios-docx-e-pdf)
 15. [Problemas comuns](#problemas-comuns)
-16. [Versionamento com Git](#versionamento-com-git)
 
 ---
 
