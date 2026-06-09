@@ -155,9 +155,6 @@ O SQLite foi escolhido por ser simples, portátil e não exigir a instalação d
 ├── .gitignore
 └── README.md
 ```
-
-> Caso o arquivo `scripts/executar_consulta.py` ainda não tenha sido criado na sua cópia do projeto, a seção de consultas deste README também apresenta outras formas de consultar o banco.
-
 ---
 
 ## Pré-requisitos
